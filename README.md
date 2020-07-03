@@ -1,2 +1,2 @@
 # santoku
-Pure CSS Santoku knife
+Pure CSS Santoku knife!
